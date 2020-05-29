@@ -78,3 +78,9 @@ E:\BackUps\Projects\DevWeb\PortfolioProject\IdentityServer4\bin\Debug\netcoreapp
 E:\BackUps\Projects\DevWeb\PortfolioProject\IdentityServer4\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
 E:\BackUps\Projects\DevWeb\PortfolioProject\IdentityServer4\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
 E:\BackUps\Projects\DevWeb\PortfolioProject\IdentityServer4\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+E:\BackUps\Projects\DevWeb\PortfolioProject\IdentityServer4\bin\Debug\netcoreapp3.1\Identity.Views.dll
+E:\BackUps\Projects\DevWeb\PortfolioProject\IdentityServer4\bin\Debug\netcoreapp3.1\Identity.Views.pdb
+E:\BackUps\Projects\DevWeb\PortfolioProject\IdentityServer4\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+E:\BackUps\Projects\DevWeb\PortfolioProject\IdentityServer4\obj\Debug\netcoreapp3.1\Identity.csproj.CoreCompileInputs.cache
+E:\BackUps\Projects\DevWeb\PortfolioProject\IdentityServer4\obj\Debug\netcoreapp3.1\Identity.MvcApplicationPartsAssemblyInfo.cache
+E:\BackUps\Projects\DevWeb\PortfolioProject\IdentityServer4\obj\Debug\netcoreapp3.1\Identity.Views.pdb
